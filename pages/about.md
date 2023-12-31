@@ -7,18 +7,17 @@ weight: 1
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:, and this site is in progress.<br>
+Hi :wave: I am **{{ site.author.name }}**, and this site is in progress. I'm born in India and currently living in the beautiful suburbs of SF Bay Area.  <br>
 
 Some of my core beliefs:
-- I am fully convinced that knowing oneself is the beginning of all wisdom (post)
-And, for that, merely thinking or meditating at a corner is not enough. One has to act. Right actions help us learn  
-- 
-<!-- <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div> -->
+- I am fully convinced that knowing oneself is the beginning of all wisdom (ahh...here we go, the good old "know thyself" adage!) (post on Karma/Gnaana/.. jeevam).
+And, for that, merely thinking or meditating at a corner is not enough. Right actions can also help us learn the bounda
+-  
 
-My professional journey is summed up in the following sketch:
+
+
+
+My professional journey is summed up in the sketch below. More details at my [LinkedIn profile](https://www.linkedin.com/in/karthikeya-parunandi-896bb480/).
 
 <div class="row">
 {% include about/timeline.html %}

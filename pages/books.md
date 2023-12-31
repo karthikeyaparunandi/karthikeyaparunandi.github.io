@@ -14,21 +14,23 @@ details > summary::-webkit-details-marker {
 }
 </style> -->
 
+<details>
+    <summary style="font-size: 1.2em; font-weight: bold;"> <span style="color:Gray">My reading philosophy</span></summary>
 
-##### <span style="color:Gray">**Reading philosophy**</span>
-
-My reading preferences lean heavily towards non-fiction, and I find true joy in discovering ideas that profoundly change my way of thinking. I'm constantly seeking books that introduce new mental models or frameworks that can cut across multiple domains. I'm convinced that multidisciplinary ideas and knowledge (reduction) is where the true gold mine is.
-
-Over the years, I've come to realize that many books lack originality and don't offer much in terms of new ideas, considering their length. Consequently, I've developed a practice of previewing books at the library before deciding to buy them. Below is a list of books I've found to be exceptionally thought-provoking, each prompting me to buy a physical copy. If we're friends, you've likely received one of these as a gift from me.
+My reading preferences lean heavily towards non-fiction, and I find true joy in discovering ideas that profoundly change my way of thinking. I'm constantly seeking books that introduce new mental models or frameworks that can cut across multiple domains. From that standpoint, I'm convinced that multidisciplinary ideas and knowledge (post on reductionism) is where the true gold mine is.
 <br>
 <br>
+Over the years, I've come to realize that many books lack originality and don't offer much in terms of new ideas, considering their length. Consequently, I've developed a practice of previewing books at the library before deciding to buy them. Below is a list of books I've found to be exceptionally thought-provoking, each prompting me to buy a physical copy. I love re-reading them in my free time and if we're friends, you've likely received one of these as a gift from me.
+</details>
+<br>
+
 ##### <span style="color:Gray">**Book recommendations and reviews**</span>
 
 ***Philosophy:***
  <details>
     <summary><u>The Beginning of the Infinity by David Deutsch</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>Full review [here](books/TMWKI.md)</p></details>
  <details>
     <summary><u>The Art of War by Sun Tzu</u></summary>
 
@@ -39,7 +41,7 @@ Over the years, I've come to realize that many books lack originality and don't 
     <p>Detailed content goes here …</p></details>
 
 <br>
-***ScienceTechnology:***
+***Science and Technology:***
 <details>
     <summary><u>Sapiens by Yuval Noah Harari</u></summary>
 
@@ -105,7 +107,7 @@ Over the years, I've come to realize that many books lack originality and don't 
 <details>
     <summary><u>The Man who knew Infinity by Robert Kanigel</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>Full review <a href="/pages/book_reviews/TMWKI.html">here</a>.</p></details>
 
 <details>
     <summary><u>Elon Musk by Ashley Vance</u></summary>

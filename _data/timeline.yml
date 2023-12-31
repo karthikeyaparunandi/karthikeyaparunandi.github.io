@@ -1,12 +1,12 @@
 - title: Senior Software Engineer, Cruise LLC
   from: 2022
   to: present
-  description: Developing cutting-edge AI/ML solutions for the behavioral planning of Cruise's autonomous vehicles
+  description: Developing cutting-edge AI/ML research and engineering approaches for the behavioral planning of Cruise's autonomous vehicles
 
 - title: Roboticist, Vicarious AI
   from:  2019
   to: 2022
-  description: Vicarious is now merged into Intrinsic, an Alphabet company.
+  description: Developed a novel RRT-based path planning algorithm and its software library that significantly outperformed the established benchmarks and successfully got deployed as the core planner into 100+ customer robots. Vicarious is now merged into Intrinsic, an Alphabet company.
 
 - title: Texas A&M University
   from: 2017
@@ -16,4 +16,4 @@
 - title: IIT Guwahati
   from: 2013
   to: 2017
-  description: Bachelors in Mechanical Engineering, with a minor in Mathematics
+  description: Bachelors in Mechanical Engineering, with a minor in Mathematics. Fortunate to have received two wonderful international internship opportunities in robotics at world-class labs in South Korea and the Netherlands. 
