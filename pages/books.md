@@ -30,11 +30,14 @@ Over the years, I've come to realize that many books lack originality and don't 
  <details>
     <summary><u>The Beginning of the Infinity by David Deutsch</u></summary>
 
-    <p>Full review [here](books/TMWKI.md)</p></details>
+    <p></p></details>
  <details>
     <summary><u>The Art of War by Sun Tzu</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p> As the name says, this ancient book is primarily about time-tested war strategies that military generals in China and powerful people across the world have been inspired
+    by for centuries now (Napolean to Mao Zedong to Bill Gates). But, the text is much more than mere fighting tips - it is also about tact, leadership and human psychology. This is worth reading at least twice, once for the content
+    and once for the beautifully-written phrases that seem contradictory at first but underpin the mystical Taoistic truths. For instance, quotes like "The greatest victory is that which requires no battle", "Appear weak when you are strong, and strong when you are weak", “In the midst of chaos, there is also opportunity” etc.
+     </p></details>
  <details>
     <summary><u>Freedom from the Known by Jiddu Krishnamurti</u></summary>
 
@@ -45,7 +48,7 @@ Over the years, I've come to realize that many books lack originality and don't 
 <details>
     <summary><u>Sapiens by Yuval Noah Harari</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>Lucidity of language.</p></details>
 <details>
     <summary><u>Cosmos by Carl Sagan</u></summary>
 

@@ -9,10 +9,10 @@ weight: 1
 
 Hi :wave: I am **{{ site.author.name }}**, and this site is in progress. I'm born in India and currently living in the beautiful suburbs of SF Bay Area.  <br>
 
-Some of my core beliefs:
+<!-- Some of my core beliefs:
 - I am fully convinced that knowing oneself is the beginning of all wisdom (ahh...here we go, the good old "know thyself" adage!) (post on Karma/Gnaana/.. jeevam).
 And, for that, merely thinking or meditating at a corner is not enough. Right actions can also help us learn the bounda
--  
+-   -->
 
 
 
