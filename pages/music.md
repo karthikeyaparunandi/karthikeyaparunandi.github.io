@@ -2,12 +2,38 @@
 layout: page
 title: Music
 permalink: /music/
-weight: 4
+weight: 5
 ---
+<!-- <details>
+    <summary style="font-size: 1.2em; font-weight: bold;"> <span style="color:Gray">My music proclivities</span></summary> -->
+
+<!-- I listen to rock, heavy metal, country, classical, jazz and Indian movie songs (a potpurri of genres in itself). I moslty seek novelty in melodic progression/harmonies/lyrics and as much as I go look around exploring new frontiers in music, I find myself often bouncing back to classical music (Western/Indian) or Jazz. These genres particularly are like the wells that never go dry. I can listen to them umpteen times and still keep discovering novel elements.
+
+I'm listing some of my <i>favorite-ever</i> albums here below and would recommend to anyone irrespective of their music proclivities. I only put albums in which I'd have heard all the pieces on repeats one time or the other. This unfortunately means I'd have to ignore many of my favorite songs whose albums didn't leave an impression on me.
+
+Western/English albums:
+- Parsley, Sage, Rosemary and Thyme from Simon and Garfunkel
+- The Black Album by Metallica
+- My favorite things by John Coltrane (<i>my</i> favorite things too)
+- Shakti, A Handful of Beauty and Remember Shakti by Shakti 
+
+Indian: 
+- Alaipayuthe, Dil Se, Rang De Basanti, Roja, Lagaan, Jodha Akbar, Swades by AR Rahman (clearly, a big fan!) 
+- The Inner Self Awakens by Agam
+- Surya Son of Krishnan and Orange by Harris Jayraj
+
+Movie themes/soundtracks:
+- Star Wars, ET, Harry Potter, Jurassic Park, Far and Away by John Williams
+- Cinema Paradiso (Italian), Once Upon a Time in America, The Mission, The Dollars Trilogy by Ennio Morriconne
+- The Godfather by Nino Rota
+- Pirates of the Carribean and The Lion King by Hans Zimmer -->
+
+<!-- </details> -->
+
 
 ### <span style="color:Gray">My compositions</span>
 
-I arrange my compositions on [Logic Pro](https://www.apple.com/logic-pro/) via a MIDI keyboard. I found the interface of Logic to be extremely intuitive to pickup as compared to, say Ableton, and reasonably priced.
+I arrange my compositions on [Logic Pro](https://www.apple.com/logic-pro/) via a MIDI keyboard. I found Logic Pro's interface extremely intuitive for anyone to rapidly pickup music programming, as compared to, say Ableton or Pro Tools.
 
 <details>
     <summary style="font-size: 1.2em; font-weight: bold;"> <span style="color:Gray">The Grand Escapade (2021)</span></summary>

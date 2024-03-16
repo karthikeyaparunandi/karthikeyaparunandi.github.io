@@ -4,6 +4,8 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+_temp_ignored_pages/
+_posts/
 # Ruby Gems
 .bundle
 Gemfile.lock
