@@ -52,7 +52,7 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Sapiens by Yuval Noah Harari</u></summary>
 
-    <p>Lucidity of language.</p></details>
+    <p>The beauty of Sapiens lies in weaving fascinating stories about the evolution of humans in a way that was not interpreted before. As much as I loved the content, which is fairly original, it is Harari's writing style that kept me hooked throughout and made it a memorable reading experience. I can see myself rereading this masterpiece in the company of nature on a fine vacation.</p></details>
 
 <!-- <details>
     <summary><u>Cosmos by Carl Sagan</u></summary>
@@ -62,25 +62,25 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Godel, Escher, Bach (or GDB) by Douglas Hofstadter</u></summary>
 
-    <p>This is a dense text and considered to be classic now. </p></details>
+    <p>This is a dense text and presents some deep ideas at the intersection of art, music and mathematics. TBD. </p></details>
 <details>
 
     <summary><u>Gene, an Intimate History by Siddhartha Mukherjee</u></summary>
 
-    <p>Wonderful book about the </p></details>
+    <p>TBD</p></details>
 <details>
 
     <summary><u>This is your Brain on Music by Daniel Levintin</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>A detailed book from on why we love music to why music evolved the way it did. A must read for those into music.</p></details>
 <details>
     <summary><u>Thinking fast, thinking slow by Daniel Kanheman</u></summary>
 
-    <p>Who doesn't know System-1 and System-2? This idea of two systems has existed in the literature of psychology for sometime now but Kanheman </p></details>
+    <p>Who doesn't know System-1 and System-2? This idea of two systems has existed in the literature of psychology for sometime now but Kanheman popularized it so much so that it is part of most discussions about nature of modern day AI. </p></details>
 
 <br>
 
-***Investing:***
+***Investing/Entrepreneurship:***
 <details>
     <summary><u>The Intelligent Investor by Benjamin Graham</u></summary>
 
@@ -89,17 +89,17 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>The Bogleheads Guide to Investing</u></summary>
 
-    <p>A guide that I visit once in a while</p></details>
+    <p>An informative investing guide that I visit once in a while.</p></details>
 
 <details>
     <summary><u>The Geometry of Wealth by Brian Portnoy</u></summary>
 
-    <p>Instead of talking about money and investing, this book covers about the holistic connotation of wealth to health, relationships and money. </p></details>
+    <p>Instead of talking about money and investing, this book covers all about wealth holistically applied to health, relationships and money. </p></details>
 
 <details>
     <summary><u>One up on the Wall Street by Peter Lynch</u></summary>
 
-    <p>I found the tips provided here to find good stocks interesting.</p></details>
+    <p>This was a fairly quick read on I found the tips provided here to find good stocks interesting.</p></details>
 
 <details>
     <summary><u>The Almanack of Naval Ravikant</u></summary>
@@ -109,7 +109,12 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Poor Charlie's Almanack</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>A collection of Charlie Munger's wisdom snippets, need I say more?</p></details>
+
+<details>
+    <summary><u>Zero to One</u></summary>
+
+    <p>No other book had as many fascinating ideas at the intersection of startups, truth-seeking and the nature of innovation as much as this one. I will be revisiting this again and again in the future.</p></details>
 
 <br>
 
@@ -122,7 +127,7 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Elon Musk by Ashley Vance</u></summary>
 
-    <p>About the life of an important Tech enterpreneur of modern times, his early life struggles and how despite that, he found great success.</p></details>
+    <p>About the life of an important tech enterpreneur of modern times, his early life struggles and how despite that, he found great success.</p></details>
 
 <br>
 
@@ -130,7 +135,7 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>The Discovery of India by Jawaharlal Nehru</u></summary>
 
-    <p>T</p></details>
+    <p>Must read for those interested in the history of India from the perspective of an intellectual who happened to be at the forefront of India's independence movement. I was taken aback to know how well-informed Nehru was about the state of the art developments in science amist all the turmoil in his life and around him. </p></details>
 
 <br>
 
@@ -138,32 +143,32 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Essentialism by Greg Mckeown</u></summary>
 
-    <p>This </p></details>
+    <p>Interesting ideas around how to avoid yourself from stretching thin while you're growing and taking on new endeavors.</p></details>
 
 <details>
     <summary><u>Atomic Habits by James McClear</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>A quick read about understanding how habits work and potentially changing them.</p></details>
 
 <details>
     <summary><u>Never Split the Difference by Chris Voss</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>This is like a practical guide about negotiations. I've used techniques in this book in negotiating my rent and salary. Quick read!</p></details>
 
 <details>
     <summary><u>Antifragile by Nicolas Nassem Taleb</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>I like the concept of Antifragility that Taleb introduced in this book, although I don't think one needs to read this entire book to understand that concept. Just read a summary to understand the concept well enough and see how you can apply in your life.</p></details>
 
 <details>
     <summary><u>Mastery by Robert Greene</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>TBD.</p></details>
 
 <details>
     <summary><u>The Daily Stoic by Ryan Holiday</u></summary>
 
-    <p>This is a book </p></details>
+    <p><TBD./p></details>
 
 <br>
 
@@ -179,22 +184,22 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Surely You're Joking Mr. Feynman by Richard Feynman</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>TBD.</p></details>
 
 <details>
     <summary><u>21 lessons for the 21st century by YN Harari</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>TBD.</p></details>
 
 <details>
     <summary><u>Siddhartha by Herman Hesse</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>TBD.</p></details>
 
 <details>
-    <summary><u>Travel</u></summary>
+    <summary><u>Travel Book by Lonely Planet</u></summary>
 
-    <p>Detailed content goes here …</p></details> 
+    <p>This is a coffee table book with each page dedicated to a country illustrated by cool pictures and interesting tidbits about their culture, heritage and more. I'd like to be able to spontaneously open one of the pages, discover something fascinating about a country and add to my bucketlist.</p></details> 
 
 <br>
 
@@ -203,4 +208,5 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Mahaprasthanam by Sri Sri</u></summary>
 
-    <p>Detailed content goes here …</p></details>
+    <p>Perhaps the most popular and important Telugu poem collection written in the last century. 
+    Everything about the content is original. Such is the influence of this book that Sri Sri immediately stormed into popularity and became a household name after its release.</p></details>
