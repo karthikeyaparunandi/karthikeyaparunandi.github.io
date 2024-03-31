@@ -72,7 +72,7 @@ Please note that the reviews for most of the books below are not complete. I'm i
 
     <summary><u>This is your Brain on Music by Daniel Levintin</u></summary>
 
-    <p>A detailed book from on why we love music to why music evolved the way it did. A must read for those into music.</p></details>
+    <p>A detailed book from on why we love music to on why music evolved the way it did. A must read for those into music.</p></details>
 <details>
     <summary><u>Thinking fast, thinking slow by Daniel Kanheman</u></summary>
 
@@ -84,22 +84,22 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>The Intelligent Investor by Benjamin Graham</u></summary>
 
-    <p>A Classic and a must-read for both beginners and the experienced investors. </p></details>
+    <p>A classic must-read for both beginners and the experienced investors. </p></details>
 
 <details>
     <summary><u>The Bogleheads Guide to Investing</u></summary>
 
-    <p>An informative investing guide that I visit once in a while.</p></details>
+    <p>An informative investing guide worth revisiting once in a while.</p></details>
 
 <details>
     <summary><u>The Geometry of Wealth by Brian Portnoy</u></summary>
 
-    <p>Instead of talking about money and investing, this book covers all about wealth holistically applied to health, relationships and money. </p></details>
+    <p> What I like about this book is its treatment of wealth as a holistic entity comprising of not just money and investing, but also of our health, relationships and the overall happiness. </p></details>
 
 <details>
     <summary><u>One up on the Wall Street by Peter Lynch</u></summary>
 
-    <p>This was a fairly quick read on I found the tips provided here to find good stocks interesting.</p></details>
+    <p>This is a quick read that helped me some tips on how to go about seeking the companies to invest in and looking for trends in prospering businesses.</p></details>
 
 <details>
     <summary><u>The Almanack of Naval Ravikant</u></summary>
@@ -124,22 +124,16 @@ Please note that the reviews for most of the books below are not complete. I'm i
 
     <p>Full review <a href="/pages/book_reviews/TMWKI.html">here</a>.</p></details>
 
-<details>
-    <summary><u>Elon Musk by Ashley Vance</u></summary>
-
-    <p>About the life of an important tech enterpreneur of modern times, his early life struggles and how despite that, he found great success.</p></details>
-
 <br>
 
 ***History:***
 <details>
     <summary><u>The Discovery of India by Jawaharlal Nehru</u></summary>
 
-    <p>Must read for those interested in the history of India from the perspective of an intellectual who happened to be at the forefront of India's independence movement. I was taken aback to know how well-informed Nehru was about the state of the art developments in science amist all the turmoil in his life and around him. </p></details>
-
+    <p>A must read for those interested in the history of India from the perspective of an intellectual who happened to be at the forefront of India's independence movement. I was taken aback to know how well-informed Nehru was about the state-of-the-art developments in science amist all the turmoil in his life and around him. </p></details>
 <br>
 
-***Self help:***
+<!-- ***Self help:***
 <details>
     <summary><u>Essentialism by Greg Mckeown</u></summary>
 
@@ -153,14 +147,14 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Never Split the Difference by Chris Voss</u></summary>
 
-    <p>This is like a practical guide about negotiations. I've used techniques in this book in negotiating my rent and salary. Quick read!</p></details>
+    <p>This is a quick practical guide about negotiations. I've used techniques in this book in negotiating my rent, salary and board games :) </p></details>
 
 <details>
     <summary><u>Antifragile by Nicolas Nassem Taleb</u></summary>
 
-    <p>I like the concept of Antifragility that Taleb introduced in this book, although I don't think one needs to read this entire book to understand that concept. Just read a summary to understand the concept well enough and see how you can apply in your life.</p></details>
+    <p>I like the concept of Antifragility that Taleb introduced in this book, although I don't think one needs to read this entire book to understand that concept. Just read a summary to understand the concept well enough and see how you can apply in your life.</p></details> -->
 
-<details>
+<!-- <details>
     <summary><u>Mastery by Robert Greene</u></summary>
 
     <p>TBD.</p></details>
@@ -168,7 +162,7 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>The Daily Stoic by Ryan Holiday</u></summary>
 
-    <p><TBD./p></details>
+    <p><TBD./p></details> -->
 
 <br>
 
@@ -179,7 +173,6 @@ Please note that the reviews for most of the books below are not complete. I'm i
     <p>This is a compilation of stories and behaviors that ADHDers exhibit and how others perceive it as just another idiosynchrasy. As someone with mild ADHD, the stories in this book felt personal and kind of reading my own life.</p></details>
 
 <br> -->
-
 ***Miscellaneous:***
 <details>
     <summary><u>Surely You're Joking Mr. Feynman by Richard Feynman</u></summary>
@@ -190,6 +183,11 @@ Please note that the reviews for most of the books below are not complete. I'm i
     <summary><u>21 lessons for the 21st century by YN Harari</u></summary>
 
     <p>TBD.</p></details>
+
+<details>
+    <summary><u>Elon Musk by Ashley Vance</u></summary>
+
+    <p>About the life of an important tech enterpreneur of modern times, his early life struggles and how despite that, he found great success.</p></details>
 
 <details>
     <summary><u>Siddhartha by Herman Hesse</u></summary>
@@ -208,5 +206,5 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Mahaprasthanam by Sri Sri</u></summary>
 
-    <p>Perhaps the most popular and important Telugu poem collection written in the last century. 
-    Everything about the content is original. Such is the influence of this book that Sri Sri immediately stormed into popularity and became a household name after its release.</p></details>
+    <p>Perhaps the most popular and important Telugu poem collection written in the last century. Putting aside the Marxistic undertones, the striking descriptions of hope and human suffering in a provocative yet arresting tone is what makes it an original piece of art. Some of the expressions used in this book have become part of vernacular Telugu language and can also be heard today in movies, news, political speeches etc, a testament to the incredible influence it had on Telugu society. 
+    </p></details>
