@@ -33,7 +33,7 @@ Please note that the reviews for most of the books below are not complete. I'm i
  <details>
     <summary><u>The Beginning of the Infinity by David Deutsch</u></summary>
 
-    <p> This is one gold mine of a book that I keep rereading to understand the dense ideas presented here better and come out with exciting insights in each iteration. I can never forget how the concept of fallibilism in this book shook my world view that justified beliefs/universal truths do not exist. After that point, there was no going back and I firmly internalized that theories are all there within the vast body of human knowledge.
+    <p> This is one gold mine of a book that I keep rereading to understand the dense ideas presented here better and come out with exciting insights in each iteration. I can never forget how the concept of fallibilism in this book shook my world view that justified beliefs/universal truths exist. After that point, there was no going back and I firmly internalized that theories are all there within the vast body of human knowledge.
     </p></details>
  <details>
     <summary><u>The Art of War by Sun Tzu</u></summary>
