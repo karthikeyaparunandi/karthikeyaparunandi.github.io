@@ -33,7 +33,7 @@ Please note that the reviews for most of the books below are not complete. I'm i
  <details>
     <summary><u>The Beginning of the Infinity by David Deutsch</u></summary>
 
-    <p> This is one gold mine of a book that keeps on giving me exciting insights in each re-read, mainly at the intersection of epistemology and modern physics. I can never forget how the concept of fallibilism in this book shook my world view that justified beliefs/universal truths exist, and made me firmly internalize that theories are all there is within the vast body of human knowledge.
+    <p> This is one gold mine of a book at the intersection of epistemology and modern physics. I can never forget how the concept of fallibilism in this book challenged my world view that justified beliefs/universal truths exist, and made me firmly internalize that theories are all there is within the vast body of human knowledge. I'd highly recommend reading it multiple times to be able to fully digest the dense ideas presented in this masterpiece.
     </p></details>
  <details>
     <summary><u>The Art of War by Sun Tzu</u></summary>
