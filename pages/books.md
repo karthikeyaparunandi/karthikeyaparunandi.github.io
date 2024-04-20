@@ -33,26 +33,24 @@ Please note that the reviews for most of the books below are not complete. I'm i
  <details>
     <summary><u>The Beginning of the Infinity by David Deutsch</u></summary>
 
-    <p> This is one gold mine of a book that I keep rereading to understand the dense ideas presented here better and come out with exciting insights in each iteration. I can never forget how the concept of fallibilism in this book shook my world view that justified beliefs/universal truths exist. After that point, there was no going back and I firmly internalized that theories are all there within the vast body of human knowledge.
+    <p> This is one gold mine of a book that keeps on giving me exciting insights in each re-read, mainly at the intersection of epistemology and modern physics. I can never forget how the concept of fallibilism in this book shook my world view that justified beliefs/universal truths exist, and made me firmly internalize that theories are all there is within the vast body of human knowledge.
     </p></details>
  <details>
     <summary><u>The Art of War by Sun Tzu</u></summary>
 
-    <p> As the name says, this ancient book is primarily about time-tested war strategies that military generals in China and powerful people across the world have been inspired
-    by for centuries now (Napolean to Mao Zedong to Bill Gates). But, the text is much more than mere fighting tips - it is also about tact, leadership and human psychology. This is worth reading at least twice, once for the content
-    and once for the beautifully-written phrases that seem contradictory at first, but underpin the mystical Taoistic truths. For instance, quotes like "The greatest victory is that which requires no battle", "Appear weak when you are strong, and strong when you are weak", “In the midst of chaos, there is also opportunity” etc.
+    <p> This ancient book is primarily about time-tested war strategies that military generals in China and powerful people across the world have been reading for centuries (Napolean to Mao Zedong to Bill Gates). But the text is much more than mere fighting tips - it is also about tact, leadership and human psychology. This is worth reading at least twice, once for the content and once for the beautifully-written phrases that seem contradictory at first, but underpin the mystical Taoistic truths. For instance, quotes like "The greatest victory is that which requires no battle", "Appear weak when you are strong, and strong when you are weak", “In the midst of chaos, there is also opportunity” etc.
      </p></details>
  <details>
     <summary><u>Freedom from the Known by Jiddu Krishnamurti</u></summary>
 
-    <p> Yes, it is the known world that causes us humans more troubles than the unknown. JK is an original thinker and his writings persuaded me revisit all the concepts I thought I knew about human emotions, desires and ambitions from scratch. This is another book I periodically revisit whenever I feel lost in direction. The beauty in JK's philosophy is that there is none. He is a strong advocate of thinking for oneself ("Truth is a pathless land", he said) and did so by boldly rejecting all sorts of "presciptions" from systems/traditions/gurus. Humans are always looking for prescriptions from others to follow in order to deal with their own suffering. As such, the idea of thinking everything from scratch devoid of any dogma sounds terrifying. But, that journey is indeed the path towards true freedom according to JK, and I cannot disagree. </p></details>
+    <p> Yes, it is the known world that causes us humans more troubles than the unknown. JK is an original thinker and his writings persuaded me revisit all the concepts I thought I knew about human emotions, desires and ambitions from scratch. This is another book I periodically revisit whenever I feel lost in direction. The beauty in JK's philosophy is that there is none. He is a strong advocate of thinking for oneself ("Truth is a pathless land", he said) and did so by boldly rejecting all sorts of "presciptions" from systems/traditions/gurus. Humans are always looking for prescriptions from others to follow in order to deal with their own sufferings. As such, the idea of thinking everything from scratch devoid of any dogma sounds terrifying. But, that journey is indeed the path towards true freedom according to JK, and I cannot disagree. </p></details>
 
 <br>
 ***Science and Technology:***
 <details>
     <summary><u>Sapiens by Yuval Noah Harari</u></summary>
 
-    <p>The beauty of Sapiens lies in weaving fascinating stories about the evolution of humans in a way that was not interpreted before. As much as I loved the content, which is fairly original, it is Harari's writing style that kept me hooked throughout and made it a memorable reading experience. I can see myself rereading this masterpiece in the company of nature on a fine vacation.</p></details>
+    <p> The beauty of Sapiens lies in weaving fascinating stories about the evolution of humans in a way that was not interpreted before. As much as I loved the content, which is fairly original, it is Harari's writing style that kept me hooked throughout and made it a memorable reading experience. I can see myself rereading this masterpiece in the company of nature on a fine vacation.</p></details>
 
 <!-- <details>
     <summary><u>Cosmos by Carl Sagan</u></summary>
@@ -62,7 +60,7 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Godel, Escher, Bach (or GDB) by Douglas Hofstadter</u></summary>
 
-    <p>This is a dense text and presents some deep ideas at the intersection of art, music and mathematics. TBD. </p></details>
+    <p> This is a dense text and presents some deep ideas at the intersection of art, music and mathematics. TBD. </p></details>
 <details>
 
     <summary><u>Gene, an Intimate History by Siddhartha Mukherjee</u></summary>
@@ -72,11 +70,11 @@ Please note that the reviews for most of the books below are not complete. I'm i
 
     <summary><u>This is your Brain on Music by Daniel Levintin</u></summary>
 
-    <p>A detailed book from on why we love music to on why music evolved the way it did. A must read for those into music.</p></details>
+    <p> A detailed book on why we love music to why music evolved the way it did. A must read for those remotely interested in understanding the significance of music to humans from an evolutionary perspective.</p></details>
 <details>
     <summary><u>Thinking fast, thinking slow by Daniel Kanheman</u></summary>
 
-    <p>Who doesn't know System-1 and System-2? This idea of two systems has existed in the literature of psychology for sometime now but Kanheman popularized it so much so that it is part of most discussions about nature of modern day AI. </p></details>
+    <p> Who doesn't know System-1 and System-2? This idea of two systems has existed in the literature of psychology for sometime now but Kanheman popularized it so much so that it is part of most discussions about nature of modern day AI. </p></details>
 
 <br>
 
@@ -84,37 +82,37 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>The Intelligent Investor by Benjamin Graham</u></summary>
 
-    <p>A classic must-read for both beginners and the experienced investors. </p></details>
+    <p> A classic must-read for both beginners and the experienced investors. </p></details>
 
 <details>
     <summary><u>The Bogleheads Guide to Investing</u></summary>
 
-    <p>An informative investing guide worth revisiting once in a while.</p></details>
+    <p> Bogleheads are all about a set of simple yet effective investment principles (see their <a href="https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy">investment philosophy</a>). This is an informative investing guide worth revisiting once in a while, especially when DCA with Index funds feels boring. The subtle art of investing, it turns out, finds beauty in the bland.</p></details>
 
 <details>
     <summary><u>The Geometry of Wealth by Brian Portnoy</u></summary>
 
-    <p> What I like about this book is its treatment of wealth as a holistic entity comprising of not just money and investing, but also of our health, relationships and the overall happiness. </p></details>
+    <p> What I love about this book is its holistic treatment of wealth as not just of money and investing, but also of our health, relationships and through the lens of our overall wellbeing. Sometimes when life feels like a unidimensional race, this perspective is important to be able to appreciate the other aspects of wealth that we usually take for granted.</p></details>
 
 <details>
     <summary><u>One up on the Wall Street by Peter Lynch</u></summary>
 
-    <p>This is a quick read that helped me some tips on how to go about seeking the companies to invest in and looking for trends in prospering businesses.</p></details>
+    <p>This is a quick read that helped me with useful tips on how to go about seeking the companies for investing and looking for trends in prospering businesses.</p></details>
 
 <details>
     <summary><u>The Almanack of Naval Ravikant</u></summary>
 
-    <p> Naval is a modern day spiritual guru to all the tech bros. A compilation of Naval's tweets, this is a small book filled with rich and dense quotes. </p></details>
+    <p> Naval is sort of a modern day spiritual guru for the people in tech. A compilation of Naval's tweets, this is a small book filled with rich and dense quotes. </p></details>
 
 <details>
     <summary><u>Poor Charlie's Almanack</u></summary>
 
-    <p>A collection of Charlie Munger's wisdom snippets, need I say more?</p></details>
+    <p> A collection of the great Charlie Munger's wisdom snippets, need I say more?</p></details>
 
 <details>
     <summary><u>Zero to One</u></summary>
 
-    <p>No other book had as many fascinating ideas at the intersection of startups, truth-seeking and the nature of innovation as much as this one. I will be revisiting this again and again in the future.</p></details>
+    <p> The entire book revolves around the fascinating question of "What important truth do very few people agree with you on?". Little did I imagine this'd help me connect dots between the seemingly-distant pursuits of truth-seeking and running startups. No other book had as many fascinating ideas at the intersection of startups, truth-seeking and the nature of innovation as this one. Some are original, others are contrarian and some others are straightout nonsensical, but almost all of have certainly been thought-provoking. I will be revisiting this again and again in the future.</p></details>
 
 <br>
 
@@ -130,7 +128,7 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>The Discovery of India by Jawaharlal Nehru</u></summary>
 
-    <p>A must read for those interested in the history of India from the perspective of an intellectual who happened to be at the forefront of India's independence movement. I was taken aback to know how well-informed Nehru was about the state-of-the-art developments in science amist all the turmoil in his life and around him. </p></details>
+    <p> A must read for those interested in the history of India from the perspective of an intellectual who happened to be at the helm of India's independence movement. I was positively surprised to know how well-informed Nehru was about the state-of-the-art developments in science amist all the turmoil in his life and in the world around him. </p></details>
 <br>
 
 <!-- ***Self help:***
@@ -197,7 +195,7 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Travel Book by Lonely Planet</u></summary>
 
-    <p>This is a coffee table book with each page dedicated to a country illustrated by cool pictures and interesting tidbits about their culture, heritage and more. I'd like to be able to spontaneously open one of the pages, discover something fascinating about a country and add to my bucketlist.</p></details> 
+    <p> This is a coffee table book with each page dedicated to a country illustrated by cool pictures and interesting tidbits about their culture, heritage and more. I'd like to be able to spontaneously open one of the pages, discover something fascinating about a country and add to my travel bucketlist.</p></details> 
 
 <br>
 
@@ -206,5 +204,5 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Mahaprasthanam by Sri Sri</u></summary>
 
-    <p>Perhaps the most popular and important Telugu poem collection written in the last century. Putting aside the Marxistic undertones, the striking descriptions of hope and human suffering in a provocative yet arresting tone is what makes it an original piece of art. Some of the expressions used in this book have become part of vernacular Telugu language and can also be heard today in movies, news, political speeches etc, a testament to the incredible influence it had on Telugu society. 
+    <p> Perhaps the most popular and important Telugu poem collection written in the last century. Putting aside the Marxistic undertones, the striking descriptions of hope and human suffering in a provocative yet arresting tone is what makes it an original piece of art. Some of the expressions used in this book have become part of vernacular Telugu language and can also be heard today in movies, news, political speeches etc, a testament to the incredible influence it had on Telugu society. 
     </p></details>
