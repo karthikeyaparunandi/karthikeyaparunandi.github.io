@@ -23,23 +23,23 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Karthikeya Parunandi
-  image             : https://imgur.com/a/H3nnW6s
-  behance           : your_username
+  image             : https://imgur.com/a/H3nnW6s.jpg
+  # behance           : your_username
 # dribbble          : your_username
   email             : karthikeyasharma91@gmail.com
-  facebook          : your_username
+  # facebook          : your_username
   github            : karthikeyaparunandi
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : karthikeya-parunandi-896bb480
+  # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  twitter           : ParnandiK
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
@@ -59,8 +59,8 @@ collections:
 
 
 ### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+# disqus:
+#   shortname: your-short-name-disqus                     # Your website Shortname on disqus
 
 
 ### Analytics ###
@@ -72,12 +72,12 @@ analytics:
 
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
-buymeacoffee:
-  enabled: false
-  username: your_username
-  color: "#007bff"
-  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
-  description: "Support me on Buy me a coffee!"
+# buymeacoffee:
+#   enabled: false
+#   username: your_username
+#   color: "#007bff"
+#   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+#   description: "Support me on Buy me a coffee!"
 
 
 ### Defaults for collections ###
