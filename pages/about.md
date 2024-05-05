@@ -9,9 +9,9 @@ weight: 1
 
 Hi :wave: I am **{{ site.author.name }}**, and this site is currently in progress. Check back later to see any interesting content!
 
-<!-- I'm born in India and currently living in the beautiful suburbs of SF Bay Area.  -->
-
-<!-- <br> -->
+<!-- I'm born in India and currently living in the beautiful suburbs of SF Bay Area. I'm an engineer by profession -->
+<!-- I like doing the exercises of first principles thinking to demystify and share my thought process in the form of essays. -->
+<!-- I believe short form content in social media, although maybe increasing information acessibility is killing original/first principles thinking-->
 <!-- Some of my core beliefs:
 - I am fully convinced that knowing oneself and their relationship with the world is the beginning of all wisdom (ahh...here we go, the good old "know thyself" adage!) (post on Karma/Gnaana/.. jeevam). And, for that, merely thinking or meditating at a corner is not enough. Right actions are a necessary step in helping us learn about our values, strengths and the limitations
 -   -->

@@ -6,7 +6,7 @@ baseurl             : ""                     # Change to empty quotes if you are
 repository          : karthikeyaparunandi/karthikeyaparunandi.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
-
+landing_vertical    : False 
 
 ### Plugins ###
 plugins:
@@ -25,26 +25,12 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Karthikeya Parunandi
   image             : https://raw.githubusercontent.com/karthikeyaparunandi/karthikeyaparunandi.github.io/master/assets/css/karthikeya_dp.png
-  # behance           : your_username
-# dribbble          : your_username
   email             : karthikeyasharma91@gmail.com
-  # facebook          : your_username
   github            : karthikeyaparunandi
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
   linkedin          : karthikeya-parunandi-896bb480
-  # medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
   twitter           : ParnandiK
-# vimeo             : your_username
 # youtube           : your_channel_name
-# keybase           : your_username
-
+  google_scholar    : citations?user=TQxOE-EAAAAJ
 
 ### Posts ###
 permalink: /blog/:title
