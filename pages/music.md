@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: page
 title: Music
 permalink: /music/
 weight: 5
----
+--- -->
 <!-- <details>
     <summary style="font-size: 1.2em; font-weight: bold;"> <span style="color:Gray">My music proclivities</span></summary> -->
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books
+title: Book reviews
 permalink: /books/
 weight: 4
 ---
@@ -14,18 +14,18 @@ details > summary::-webkit-details-marker {
 }
 </style> -->
 
-<details>
+<!-- <details>
     <summary style="font-size: 1.2em; font-weight: bold;"> <span style="color:Gray">Reading philosophy</span></summary>
 
 My reading preferences lean heavily towards non-fiction. I find true joy in discovering ideas that profoundly change my way of thinking and am constantly seeking books that introduce new mental models or frameworks that cut across multiple domains. From that standpoint, I've been more interested in multidisciplinary ideas in the recent past than ever before.
-<!-- and knowledge (post on reductionism) is where the true gold mine is. -->
+
 <br>
 <br>
 Over the years, I've come to realize that many books lack originality and don't offer much in terms of new ideas, considering their length. For this reason, I now preview books at the library first before deciding to buy them. Below is a list of books I've found to be exceptionally thought-provoking, each prompting me to buy a physical copy. I love re-reading them in my free time and if we're friends, you've likely received one of these as a gift from me.
 
 Please note that the reviews for most of the books below are not complete. I'm in the process of updating them. :) 
 </details>
-<br>
+<br> -->
 
 ##### <span style="color:Gray">**Book recommendations and reviews**</span>
 
@@ -129,7 +129,6 @@ Please note that the reviews for most of the books below are not complete. I'm i
     <summary><u>The Discovery of India by Jawaharlal Nehru</u></summary>
 
     <p> A must read for those interested in the history of India from the perspective of an intellectual who happened to be at the helm of India's independence movement. I was positively surprised to know how well-informed Nehru was about the state-of-the-art developments in science amist all the turmoil in his life and in the world around him. </p></details>
-<br>
 
 <!-- ***Self help:***
 <details>
