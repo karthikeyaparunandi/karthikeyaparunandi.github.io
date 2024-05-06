@@ -22,7 +22,7 @@ The Grand Escapade is a soundtrack for short and imaginary conceptual series dep
 
 - [Science Robotics](https://www.science.org/journal/scirobotics) - state-of-the-art developments in Robotics
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/contents.html) - a guide to all things related to Philosophy
-- [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html) - a collection of concept maps to understanding Physics
+- [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html) - a collection of fascinating concept maps in Physics
 - [Music Map](https://musicmap.info/#) - a visual guide to understanding various music genres in Western music
 <!-- - [Sangeethapriya](https://www.sangeethapriya.org/) - the biggest collection of Carnatic concert recordings, almost spanning a century -->
 
