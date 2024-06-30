@@ -7,7 +7,7 @@ weight: 1
 
 ##### <span style="color:Gray">**About me**</span>
 <span style="font-size: 14px;"> 
-I’m an AI/ML engineer based in the SF Bay Area, specializing in decision-making for autonomous systems with a [research background](research.md) at the intersection of Reinforcement learning, and motion planning under uncertainty. My journey has taken me from working on motion planning for robot arms and drones to my current focus on behavioral planning for self-driving cars at [Cruise LLC](https://www.getcruise.com/).<br></span>
+I’m an AI/ML engineer based in the SF Bay Area, specializing in decision-making for autonomous systems. In my previous life, I did [academic research](research.md) at the intersection of Reinforcement learning, and motion planning under uncertainty. My journey in the industry has taken me from developing algorithms for motion planning of robot arms at [Vicarious](https://www.vicarious.com/) (now acquired by Alphabet) and drones to my current focus on behavioral planning for self-driving cars at [Cruise LLC](https://www.getcruise.com/).<br></span>
 
 <span style="font-size: 14px;"> 
 At Cruise, I’m involved in developing large-scale ML algorithms that plan a car's maneuvers (such as lane changes, stopping/ yielding at traffic lights, making turns, etc.) ensuring that the vehicle reaches its destination safely, comfortably, and legally.<br>
