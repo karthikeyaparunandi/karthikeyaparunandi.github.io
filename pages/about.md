@@ -7,7 +7,7 @@ weight: 1
 
 ##### <span style="color:Gray">**About me**</span>
 <span style="font-size: 14px;"> 
-I’m an AI/ML engineer based in the SF Bay Area, specializing in decision-making for autonomous systems. My journey has taken me from working on motion planning for robot arms and drones to my current focus on behavioral planning for self-driving cars at [Cruise LLC](https://www.getcruise.com/).<br></span>
+I’m an AI/ML engineer based in the SF Bay Area, specializing in decision-making for autonomous systems with a [research background](research.md) at the intersection of Reinforcement learning, and motion planning under uncertainty. My journey has taken me from working on motion planning for robot arms and drones to my current focus on behavioral planning for self-driving cars at [Cruise LLC](https://www.getcruise.com/).<br></span>
 
 <span style="font-size: 14px;"> 
 At Cruise, I’m involved in developing large-scale ML algorithms that plan a car's maneuvers (such as lane changes, stopping/ yielding at traffic lights, making turns, etc.) ensuring that the vehicle reaches its destination safely, comfortably, and legally.<br>
@@ -15,7 +15,7 @@ What excites me about this field is that for the first time in history, large-sc
 <br>
 
 <span style="font-size: 14px;"> 
-While not an engineer, I enjoy playing musical instruments, [reading books](books.md), playing board games and marvelling at nature's beauty! :)
+While not an engineer, I enjoy playing musical instruments, [reading books](books.md), playing board games and simply marveling at nature's beauty! :)
 </span>
 
 

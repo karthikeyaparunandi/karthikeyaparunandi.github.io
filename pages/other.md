@@ -7,7 +7,7 @@ weight: 6
 
 ##### <span style="color:Gray">**Music**</span>
 
-Featuring some of my compositions arranged on [Logic Pro](https://www.apple.com/logic-pro/) via a MIDI keyboard:
+Featuring here some of my compositions arranged on [Logic Pro](https://www.apple.com/logic-pro/):
 
 <details>
     <summary style="font-size: 1em; font-weight: bold;"> <span style="color:Gray">The Grand Escapade (2021)</span></summary>
