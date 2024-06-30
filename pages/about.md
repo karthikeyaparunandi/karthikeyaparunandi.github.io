@@ -5,9 +5,23 @@ permalink: /about/
 weight: 1
 ---
 
-# **About Me**
+##### <span style="color:Gray">**About me**</span>
+<span style="font-size: 14px;"> 
+I’m an AI/ML engineer based in the SF Bay Area, specializing in decision-making for autonomous systems. My journey has taken me from working on motion planning for robot arms and drones to my current focus on behavioral planning for self-driving cars at [Cruise LLC](https://www.getcruise.com/).<br></span>
 
-Hi :wave: I am **{{ site.author.name }}**, and this site is currently in progress. Check back later to see any interesting content!
+<span style="font-size: 14px;"> 
+At Cruise, I’m involved in developing large-scale ML algorithms that plan a car's maneuvers (such as lane changes, stopping/ yielding at traffic lights, making turns, etc.) ensuring that the vehicle reaches its destination safely, comfortably, and legally.<br>
+What excites me about this field is that for the first time in history, large-scale autonomous systems are being deployed in a safety-critical manner. Being at the forefront of this innovation challenges me to push the boundaries and advance the state-of-the-art in AI/ML.</span>
+<br>
+
+<span style="font-size: 14px;"> 
+While not an engineer, I enjoy playing musical instruments, [reading books](books.md), playing board games and marvelling at nature's beauty! :)
+</span>
+
+
+ <!-- In Robotics, this often involves planning robot's actions to achieve specific objectives - for example: <br>(i) a humanoid robot planning its limb motions in order to walk from one room to the another by avoiding potential obstacles<br>(ii) a drone navigating in a dense forest by dodging trees, or <br>(iii) a self-driving car planning its next set of manuevers such as lane changes, traffic light stopping/yielding and turnings etc. in order to reach its destination in a safe, comfortable and legal manner.</span> <br>  -->
+
+<!-- Hi :wave: I am **{{ site.author.name }}**, and this site is currently in progress. Check back later to see any interesting content! -->
 
 <!-- I'm born in India and currently living in the beautiful suburbs of SF Bay Area. I'm an engineer by profession -->
 <!-- I like doing the exercises of first principles thinking to demystify and share my thought process in the form of essays. -->
