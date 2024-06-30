@@ -138,13 +138,10 @@ Please note that the reviews for most of the books below are not complete. I'm i
 
     <p> Roman history is one of the best-preserved ancient histories. It is fascinating due to the significant innovations across all spheres of civilization, from building gigantic structures like the Colosseum to sophisticated road highways, to great philosophies like Stoicism, and the creation of the Julian calendar, among many others. </p></details>
 
-<br>    
+<!-- <br>     -->
 
-***Personality development:***
-<details>
-    <summary><u>Essentialism by Greg Mckeown</u></summary>
+<!-- ***Personality development:*** -->
 
-    <p>Interesting ideas around how to avoid yourself from stretching thin while you're growing and taking on new endeavors.</p></details>
 
 <!-- <details>
     <summary><u>Atomic Habits by James McClear</u></summary>
@@ -182,7 +179,10 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <br>
 ***Miscellaneous:***
 
+<details>
+    <summary><u>Essentialism by Greg Mckeown</u></summary>
 
+    <p>Interesting ideas around how to prevent yourself from stretching thin while growing personally/professionally and taking on new endeavors.</p></details>
 <!-- <details>
     <summary><u>Elon Musk by Ashley Vance</u></summary>
 
