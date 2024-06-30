@@ -11,7 +11,7 @@ I’m an AI/ML engineer based in the SF Bay Area, specializing in decision-makin
 
 <span style="font-size: 14px;"> 
 At Cruise, I’m involved in developing large-scale ML algorithms that plan a car's maneuvers (such as lane changes, stopping/ yielding at traffic lights, making turns, etc.) ensuring that the vehicle reaches its destination safely, comfortably, and legally.<br>
-What excites me about this field is that for the first time in history, large-scale autonomous systems are being deployed in a safety-critical manner. Being at the forefront of this innovation challenges me to push the boundaries and advance the state-of-the-art in AI/ML.</span>
+What excites me about this field is that for the first time in history, large-scale autonomous systems are being deployed in a safety-critical application while interacting with the general public. Being at the forefront of this innovation challenges me to push the boundaries and advance the state-of-the-art in AI/ML.</span>
 <br>
 
 <span style="font-size: 14px;"> 
