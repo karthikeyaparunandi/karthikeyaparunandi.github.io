@@ -5,9 +5,6 @@ permalink: /other/
 weight: 6
 ---
 
-##### <span style="color:Gray">**Music**</span>
-
-<br>
 ##### <span style="color:Gray">**Interesting web resources**</span>
 
 - [Science Robotics](https://www.science.org/journal/scirobotics) - state-of-the-art developments in Robotics
@@ -15,7 +12,8 @@ weight: 6
 - [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html) - a collection of fascinating concept maps in Physics
 - [Music Map](https://musicmap.info/#) - a visual guide to understanding various music genres in Western music
 <!-- - [Sangeethapriya](https://www.sangeethapriya.org/) - the biggest collection of Carnatic concert recordings, almost spanning a century -->
-
+<br>
+##### <span style="color:Gray">**Music**</span> 
 Featuring some of my musical compositions (arranged on [Logic Pro](https://www.apple.com/logic-pro/)):
 
 <details>
