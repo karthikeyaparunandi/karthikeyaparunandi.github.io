@@ -14,7 +14,7 @@ weight: 1
 <details open>
     <summary><u>Learning-based planning of autonomous systems</u></summary>
 <ul>
-    <li><span style="font-size: 14px;"> <u><a href="https://ieeexplore.ieee.org/abstract/document/9525194">Decoupled data-based approach for learning to control nonlinear dynamical systems</a></u>, R. Wang, <a> Karthikeya S Parunandi </a>, D. Yu, D. Kalathil, S. Chakravorty, published in <i>IEEE Transactions on Automatic Control, 2022</i></span></li>
+    <li><span style="font-size: 14px;"> <u><a href="https://ieeexplore.ieee.org/abstract/document/9525194">Decoupled Data-based Approach for Learning to Control Nonlinear Dynamical Systems</a></u>, R. Wang, <a> Karthikeya S Parunandi </a>, D. Yu, D. Kalathil, S. Chakravorty, published in <i>IEEE Transactions on Automatic Control, 2022</i></span></li>
     <li><span style="font-size: 14px;"><a href="https://ieeexplore.ieee.org/abstract/document/9683350">On the Search for Feedback in Reinforcement Learning</a>, 
     R. Wang, Karthikeya S. Parunandi, A. Sharma, R. Goyal and S. Chakravorty, published in <i>60th IEEE Conference on Decision and Control (CDC), 2021</i></span></li>
     <li><span style="font-size: 14px;"><a href="https://arxiv.org/abs/2002.07368">D2C 2.0: Decoupled Data-Based Approach for Learning to Control Stochastic Nonlinear Systems via Model-Free ILQR</a>, Karthikeya S Parunandi, Aayushman Sharma, Suman Chakravorty, Dileep Kalathil, <i>arXiv pre-print, 2020</i></span></li>
