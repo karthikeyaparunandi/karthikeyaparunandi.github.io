@@ -102,12 +102,20 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>The Almanack of Naval Ravikant</u></summary>
 
-    <p> Naval is sort of a modern day spiritual guru for the people in tech. A compilation of Naval's tweets, this is a small book filled with rich and dense quotes. </p></details>
+    <p> Everyone in tech knows Naval. He is sort of a modern day spiritual guru with immense clarity on subjects at the intersection of life, investing, startups, technology, and philosophy. A compilation of Naval's tweets, this is a small book filled with his rich and dense quotes. Some of my favorite ones are:
+    <p>- "Desire is a contract that you make with yourself to be unhappy until you get what you want"</p>
+    <p>- "Don't do things that you know are morally wrong. Not because someone is watching, but because you are. Self-esteem is just the reputation that you have with yourself."</p>
+    <p>- “Clear thinkers appeal to their own authority.”</p>
+    <p>- “Following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now.”</p>
+    <p>- “Escape competition through authenticity.”</p>
+    </p></details>
 
 <details>
     <summary><u>Poor Charlie's Almanack</u></summary>
 
-    <p> A collection of the great Charlie Munger's wisdom snippets, need I say more?</p></details>
+    <p> This one is a collection of lectures from the legendary investor Charlie Munger, packed with timeless wisdom and practical insights. What makes Munger so fascinating is his ability to pull ideas from everywhere—math, physics, psychology, economics—and weave them into a powerful approach to decision-making. He doesn’t just study these mental models; he applies them in both business and life, making his lessons not just insightful but also actionable.
+    
+    </p></details>
 
 <details>
     <summary><u>Zero to One: Notes on Startups, or How to Build the Future</u></summary>
