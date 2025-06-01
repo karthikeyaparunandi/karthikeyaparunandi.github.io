@@ -13,6 +13,10 @@ weight: 6
 - [Music Map](https://musicmap.info/#) - a visual guide to understanding various music genres in Western music
 <!-- - [Sangeethapriya](https://www.sangeethapriya.org/) - the biggest collection of Carnatic concert recordings, almost spanning a century -->
 
+##### <span style="color:Gray">**Special Book**</span>
+This is a book written by my late great grandfather Adluri Seetharama Sastry. It was written in Sanksrit
+which I don't quite understand. I had access to the PDF of the scanned copy and prompt-engineered Gemini to neatly translate 
+it into English and publishing here: <a href="/pages/books/devyupanishadh.html">Devupanisadh</a> (original scanned copy: <a href="https://drive.google.com/file/d/1sf71h1GcXA5SW3fkMPn0bKJcC1ZgNBVR/view?usp=sharing"> PDF </a>)
 
 ##### <span style="color:Gray">**Music**</span> 
 Featuring some of my musical compositions (arranged on [Logic Pro](https://www.apple.com/logic-pro/)):
