@@ -17,8 +17,7 @@ weight: 1
  <li>
   <span style="font-size: 14px;">
     <u><a href="#">The Search for Feedback in Reinforcement Learning (workshop: Model-Based Reinforcement Learning for High Dimensional Nonlinear Dynamical Systems)</a></u>
-    R. Wang, A. Sharma, Karthikeya Sharma Parunandi, R. Goyal, Mohamed, Suman Chakravorty
-    <a> Karthikeya S Parunandi </a>, S. Chakravorty, 
+    R. Wang, A. Sharma, <a>Karthikeya Sharma Parunandi</a>, R. Goyal, Mohamed, S. Chakravorty
     published in <i>American Control Conference, 2025</i>
   </span>
 </li>
