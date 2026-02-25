@@ -2,7 +2,7 @@
 layout: page
 title: Book reviews
 permalink: /books/
-weight: 4
+weight: 3
 ---
 <!-- <style>
 details > summary {
