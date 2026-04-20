@@ -70,7 +70,7 @@ ReactDOM.render(
 
 So this is where we connect our `Hello` component with the entry point for the app (`<div id="root"></div>`). It results in the following:
 
-![](https://cdn-images-1.medium.com/max/1000/1*T-bmSzg0KlijyB3dG1M-ow.png)
+![React Hello World component rendered in browser](https://cdn-images-1.medium.com/max/1000/1*T-bmSzg0KlijyB3dG1M-ow.png)
 
 The HTML’ish syntax we just looked at (`<h1>` and `<Hello/>`) is the JSX code I mentioned earlier. It’s not actually HTML, though what you write there does end up as HTML tags in the DOM.
 
@@ -111,7 +111,7 @@ class Hello extends React.Component {
 
 As a result, this is rendered on the screen:
 
-![](https://cdn-images-1.medium.com/max/1000/1*M0-2Ct0K3SARZLSwIzgdJw.png)
+![React component rendering a custom message via props](https://cdn-images-1.medium.com/max/1000/1*M0-2Ct0K3SARZLSwIzgdJw.png)
 
 The reason we’re writing {this.props.message} with curly braces is because we need to tell the JSX that we want to add a JavaScript expression. This is called **escaping**.
 

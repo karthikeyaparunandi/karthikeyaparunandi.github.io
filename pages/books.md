@@ -60,7 +60,7 @@ Please note that the reviews for most of the books below are not complete. I'm i
 <details>
     <summary><u>Godel, Escher, Bach (or GDB) by Douglas Hofstadter</u></summary>
 
-    <p> This is a dense text and presents some deep ideas at the intersection of art, music and mathematics. TBD. </p></details>
+    <p> A dense and profoundly rewarding text exploring how formal systems, self-reference, and consciousness interweave through mathematics, music, and art. Hofstadter's central thesis—that consciousness arises from strange loops of self-reference—is as mind-bending as it is illuminating. Each chapter pairs a Bach fugue or Escher drawing with a new layer of the argument, making abstract ideas in logic and computation feel viscerally alive. One of the most ambitious and original books I have ever read. </p></details>
 
 <!-- <details>
     <summary><u>Gene, an Intimate History by Siddhartha Mukherjee</u></summary>

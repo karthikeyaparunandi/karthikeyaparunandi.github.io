@@ -5,3 +5,16 @@ details > summary {
 details > summary::-webkit-details-marker {
     display: none;
 }
+
+.text-gray {
+    color: gray;
+}
+
+.text-sm {
+    font-size: 14px;
+}
+
+.text-sm-gray {
+    font-size: 14px;
+    color: gray;
+}

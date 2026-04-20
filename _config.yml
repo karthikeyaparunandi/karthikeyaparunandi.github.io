@@ -1,7 +1,6 @@
 ### Site Settings ###
 title               : Karthikeya Parunandi
-description         : |
-                      Welcome! This is a collection of my research, personal projects, and some curated content. <br>
+description         : "AI/ML Engineer · Autonomous Systems · San Francisco Bay Area"
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : karthikeyaparunandi/karthikeyaparunandi.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -11,6 +10,7 @@ landing_vertical    : False
 ### Plugins ###
 plugins:
   - jemoji
+  - jekyll-sitemap
 
 
 ### Navbar Settings ###
@@ -18,13 +18,16 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - pages/book_reviews/TMWKI.html
+  - pages/about.md
+  - pages/research.md
   # - documentation/partials/**                           # For Documentation Only
 
 
 ### Author Info ###
 author:
   name              : Karthikeya Parunandi
-  image             : https://raw.githubusercontent.com/karthikeyaparunandi/karthikeyaparunandi.github.io/master/assets/css/karthikeya_dp.png
+  image             : /assets/css/karthikeya_dp.jpg
   email             : karthikeyasharma91@gmail.com
   github            : karthikeyaparunandi
   linkedin          : karthikeya-parunandi-896bb480

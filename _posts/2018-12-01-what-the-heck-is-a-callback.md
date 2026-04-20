@@ -8,7 +8,7 @@ description: Learn and understand the basics of callbacks in just 6 minutes with
 
 Source: [Brandon Morelli](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
 
-![](https://cdn-images-1.medium.com/max/2000/1*pWGJIKats-zuumA3RQNEWQ.jpeg)
+![JavaScript callback function concept illustration](https://cdn-images-1.medium.com/max/2000/1*pWGJIKats-zuumA3RQNEWQ.jpeg)
 
 ## What is a Callback?
 
